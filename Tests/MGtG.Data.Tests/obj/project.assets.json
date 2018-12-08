@@ -5758,11 +5758,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Phil Thomas\\Documents\\GitHub\\MGtG\\MGtG.Data.Tests\\MGtG.Data.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Phil Thomas\\Documents\\GitHub\\MGtG\\Tests\\MGtG.Data.Tests\\MGtG.Data.Tests.csproj",
       "projectName": "MGtG.Data.Tests",
-      "projectPath": "C:\\Users\\Phil Thomas\\Documents\\GitHub\\MGtG\\MGtG.Data.Tests\\MGtG.Data.Tests.csproj",
+      "projectPath": "C:\\Users\\Phil Thomas\\Documents\\GitHub\\MGtG\\Tests\\MGtG.Data.Tests\\MGtG.Data.Tests.csproj",
       "packagesPath": "C:\\Users\\Phil Thomas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Phil Thomas\\Documents\\GitHub\\MGtG\\MGtG.Data.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Phil Thomas\\Documents\\GitHub\\MGtG\\Tests\\MGtG.Data.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
