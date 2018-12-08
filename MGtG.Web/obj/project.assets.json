@@ -12129,11 +12129,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Phil Thomas\\source\\repos\\philipmthomas\\MGtG\\MGtG.Web\\MGtG.Web.csproj",
+      "projectUniqueName": "C:\\Users\\Phil Thomas\\Documents\\GitHub\\MGtG\\MGtG.Web\\MGtG.Web.csproj",
       "projectName": "MGtG.Web",
-      "projectPath": "C:\\Users\\Phil Thomas\\source\\repos\\philipmthomas\\MGtG\\MGtG.Web\\MGtG.Web.csproj",
+      "projectPath": "C:\\Users\\Phil Thomas\\Documents\\GitHub\\MGtG\\MGtG.Web\\MGtG.Web.csproj",
       "packagesPath": "C:\\Users\\Phil Thomas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Phil Thomas\\source\\repos\\philipmthomas\\MGtG\\MGtG.Web\\obj\\",
+      "outputPath": "C:\\Users\\Phil Thomas\\Documents\\GitHub\\MGtG\\MGtG.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
