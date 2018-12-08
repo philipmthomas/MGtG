@@ -27,3 +27,4 @@ C:\Users\Phil Thomas\Documents\GitHub\MGtG\MGtG.Web\obj\Debug\netcoreapp2.2\MGtG
 C:\Users\Phil Thomas\Documents\GitHub\MGtG\MGtG.Web\obj\Debug\netcoreapp2.2\MGtG.Web.dll
 C:\Users\Phil Thomas\Documents\GitHub\MGtG\MGtG.Web\obj\Debug\netcoreapp2.2\MGtG.Web.pdb
 C:\Users\Phil Thomas\Documents\GitHub\MGtG\MGtG.Web\obj\Debug\netcoreapp2.2\MGtG.Web.csproj.CopyComplete
+C:\Users\Phil Thomas\Documents\GitHub\MGtG\MGtG.Web\obj\Debug\netcoreapp2.2\MGtG.Web.csprojAssemblyReference.cache
