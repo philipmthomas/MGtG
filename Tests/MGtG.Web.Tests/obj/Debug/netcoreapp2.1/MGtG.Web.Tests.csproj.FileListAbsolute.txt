@@ -27,4 +27,3 @@ C:\Users\Phil Thomas\Documents\GitHub\MGtG\Tests\MGtG.Web.Tests\obj\Debug\netcor
 C:\Users\Phil Thomas\Documents\GitHub\MGtG\Tests\MGtG.Web.Tests\obj\Debug\netcoreapp2.1\MGtG.Web.Tests.AssemblyInfo.cs
 C:\Users\Phil Thomas\Documents\GitHub\MGtG\Tests\MGtG.Web.Tests\obj\Debug\netcoreapp2.1\MGtG.Web.Tests.dll
 C:\Users\Phil Thomas\Documents\GitHub\MGtG\Tests\MGtG.Web.Tests\obj\Debug\netcoreapp2.1\MGtG.Web.Tests.pdb
-C:\Users\Phil Thomas\Documents\GitHub\MGtG\Tests\MGtG.Web.Tests\obj\Debug\netcoreapp2.1\MGtG.Web.Tests.csprojAssemblyReference.cache

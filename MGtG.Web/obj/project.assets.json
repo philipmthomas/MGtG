@@ -12123,7 +12123,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\": {},
+    "C:\\Users\\Phil Thomas\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -12132,14 +12132,14 @@
       "projectUniqueName": "C:\\Users\\Phil Thomas\\Documents\\GitHub\\MGtG\\MGtG.Web\\MGtG.Web.csproj",
       "projectName": "MGtG.Web",
       "projectPath": "C:\\Users\\Phil Thomas\\Documents\\GitHub\\MGtG\\MGtG.Web\\MGtG.Web.csproj",
-      "packagesPath": "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Phil Thomas\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Phil Thomas\\Documents\\GitHub\\MGtG\\MGtG.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Phil Thomas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
