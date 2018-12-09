@@ -22,7 +22,6 @@ C:\Users\Phil Thomas\Documents\GitHub\MGtG\Tests\MGtG.Web.Tests\bin\Debug\netcor
 C:\Users\Phil Thomas\Documents\GitHub\MGtG\Tests\MGtG.Web.Tests\bin\Debug\netcoreapp2.1\MGtG.Web.Tests.runtimeconfig.dev.json
 C:\Users\Phil Thomas\Documents\GitHub\MGtG\Tests\MGtG.Web.Tests\bin\Debug\netcoreapp2.1\MGtG.Web.Tests.dll
 C:\Users\Phil Thomas\Documents\GitHub\MGtG\Tests\MGtG.Web.Tests\bin\Debug\netcoreapp2.1\MGtG.Web.Tests.pdb
-C:\Users\Phil Thomas\Documents\GitHub\MGtG\Tests\MGtG.Web.Tests\obj\Debug\netcoreapp2.1\MGtG.Web.Tests.csprojAssemblyReference.cache
 C:\Users\Phil Thomas\Documents\GitHub\MGtG\Tests\MGtG.Web.Tests\obj\Debug\netcoreapp2.1\MGtG.Web.Tests.csproj.CoreCompileInputs.cache
 C:\Users\Phil Thomas\Documents\GitHub\MGtG\Tests\MGtG.Web.Tests\obj\Debug\netcoreapp2.1\MGtG.Web.Tests.AssemblyInfoInputs.cache
 C:\Users\Phil Thomas\Documents\GitHub\MGtG\Tests\MGtG.Web.Tests\obj\Debug\netcoreapp2.1\MGtG.Web.Tests.AssemblyInfo.cs

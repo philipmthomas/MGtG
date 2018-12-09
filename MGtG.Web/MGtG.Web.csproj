@@ -5,7 +5,13 @@
     <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
     <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
     <UserSecretsId>927ff7de-9219-4b84-bd1c-664a6c19a705</UserSecretsId>
+    <DockerComposeProjectPath>..\docker-compose.dcproj</DockerComposeProjectPath>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Dockerfile1.original" />
+    <None Remove="Dockerfile2.original" />
+  </ItemGroup>
 
 
   <ItemGroup>

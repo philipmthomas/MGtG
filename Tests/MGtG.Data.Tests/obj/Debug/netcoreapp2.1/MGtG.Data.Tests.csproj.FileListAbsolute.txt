@@ -22,9 +22,9 @@ C:\Users\Phil Thomas\Documents\GitHub\MGtG\Tests\MGtG.Data.Tests\bin\Debug\netco
 C:\Users\Phil Thomas\Documents\GitHub\MGtG\Tests\MGtG.Data.Tests\bin\Debug\netcoreapp2.1\MGtG.Data.Tests.runtimeconfig.dev.json
 C:\Users\Phil Thomas\Documents\GitHub\MGtG\Tests\MGtG.Data.Tests\bin\Debug\netcoreapp2.1\MGtG.Data.Tests.dll
 C:\Users\Phil Thomas\Documents\GitHub\MGtG\Tests\MGtG.Data.Tests\bin\Debug\netcoreapp2.1\MGtG.Data.Tests.pdb
-C:\Users\Phil Thomas\Documents\GitHub\MGtG\Tests\MGtG.Data.Tests\obj\Debug\netcoreapp2.1\MGtG.Data.Tests.csprojAssemblyReference.cache
 C:\Users\Phil Thomas\Documents\GitHub\MGtG\Tests\MGtG.Data.Tests\obj\Debug\netcoreapp2.1\MGtG.Data.Tests.csproj.CoreCompileInputs.cache
 C:\Users\Phil Thomas\Documents\GitHub\MGtG\Tests\MGtG.Data.Tests\obj\Debug\netcoreapp2.1\MGtG.Data.Tests.AssemblyInfoInputs.cache
 C:\Users\Phil Thomas\Documents\GitHub\MGtG\Tests\MGtG.Data.Tests\obj\Debug\netcoreapp2.1\MGtG.Data.Tests.AssemblyInfo.cs
 C:\Users\Phil Thomas\Documents\GitHub\MGtG\Tests\MGtG.Data.Tests\obj\Debug\netcoreapp2.1\MGtG.Data.Tests.dll
 C:\Users\Phil Thomas\Documents\GitHub\MGtG\Tests\MGtG.Data.Tests\obj\Debug\netcoreapp2.1\MGtG.Data.Tests.pdb
+C:\Users\Phil Thomas\Documents\GitHub\MGtG\Tests\MGtG.Data.Tests\obj\Debug\netcoreapp2.1\MGtG.Data.Tests.csprojAssemblyReference.cache
