@@ -1,3 +1,0 @@
-C:\Users\Phil Thomas\source\repos\philipmthomas\MGtG\MGtG\obj\Debug\netcoreapp2.2\MGtG.csproj.CoreCompileInputs.cache
-C:\Users\Phil Thomas\source\repos\philipmthomas\MGtG\MGtG\obj\Debug\netcoreapp2.2\MGtG.AssemblyInfoInputs.cache
-C:\Users\Phil Thomas\source\repos\philipmthomas\MGtG\MGtG\obj\Debug\netcoreapp2.2\MGtG.AssemblyInfo.cs
